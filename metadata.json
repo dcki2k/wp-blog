@@ -1,0 +1,6 @@
+{
+  "name": "NetWP Blog",
+  "description": "A premium, full-stack WordPress-inspired blogging platform and interactive network engineering utility toolbox tailored for network designers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
